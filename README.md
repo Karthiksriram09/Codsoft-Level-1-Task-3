@@ -15,30 +15,14 @@ A stylish and responsive calculator built using HTML, CSS, and JavaScript. This 
 - Modern and intuitive user interface.
 - Keyboard support for ease of use.
 
-## Screenshots
-
-<img width="959" alt="image" src="https://github.com/Karthiksriram09/Codsoft-Level-1-Task-3/assets/143996957/c33431ac-5bbe-4d76-87a7-503c36f1bbf5">
-
-
 ## Installation
 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/karthiksriram09/calculator.git
 ```
 
-Navigate to the project directory:
-
-```bash
-cd calculator
-```
-
-Open the `index.html` file in your preferred web browser:
-
-```bash
-open index.html
-```
 
 ## Usage
 
