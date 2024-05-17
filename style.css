@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+    letter-spacing: 1px;
+}
+
+body{
+    min-height: 100vh;
+    max-width: 100%;
+    display: grid;
+    place-items: center;
+    background-image: url('bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.calc{
+    padding: 25px;
+    box-shadow: 0 0 100px #000;
+    border: 2px solid rgb(red, green, blue);
+    border-radius: 15px;
+}
+
+.display input{
+    width: 360px;
+    border: none;
+    outline: none;
+    padding: 20px;
+    margin: 10px;
+    background: transparent;
+    color: white;
+    font-size: 40px;
+    text-align: right;
+    cursor: pointer;
+}
+
+input::placeholder{
+    color: white;
+}
+
+button{
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    background: transparent;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 60%;
+    box-shadow: -5px -6px 15px rgba(234, 63, 11, 0.589);
+    outline: 1px solid #9a7474;
+    outline-offset: 3px;
+    cursor: pointer;
+}
+
+button:active{
+    background-color: rgba(255, 0, 0, 0.349);
+    transform: translate(2px, 2px);
+}
+
+.opr{
+    color: rgba(10, 4, 4, 0.712);
+    background-color: rgba(168, 246, 161, 0.525);
+    font-weight: 900;
+}
+
+#eqBtn{
+    background-color: salmon;
+    font-weight: 900;
+}
