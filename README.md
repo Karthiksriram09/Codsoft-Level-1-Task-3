@@ -1,6 +1,6 @@
 **A Simple and Responsive Calculator Built with HTML, CSS, and JavaScript**
 
-This repository provides a basic calculator application that performs fundamental arithmetic operations (+, -, *, /) using the power of HTML for structure, CSS for styling, and JavaScript for interactivity. Ideal for beginners or anyone seeking a straightforward calculator implementation.
+This repository provides a basic calculator application that performs fundamental arithmetic operations (+, -, *, /, and many more) using the power of HTML for structure, CSS for styling, and JavaScript for interactivity. Ideal for beginners or anyone seeking a straightforward calculator implementation.
 
 **Key Features:**
 
